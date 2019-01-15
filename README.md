@@ -1,5 +1,5 @@
 # Pattern Structures Classification
-This repository contains the source code that allows to solve classification and regression problems with Interval Pattern Structures.
+This repository contains the source code that allows to solve classification and regression problems with **Interval Pattern Structures**.
 
 # Paper
 * The source code is stored in `classification` and `regression` modules.
